@@ -1,4 +1,4 @@
-![I am Software Developer](https://media.licdn.com/dms/image/v2/D5603AQHba2iI4s2j2w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725371181413?e=1742428800&v=beta&t=ll5Qi1ldqZ5rWDNm-EB5iTFBoF1djQ1cG5rJvdOo5_c)
+![I am Software Developer](https://media.licdn.com/dms/image/v2/C5616AQEqCjA5NQ4aJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1667921467859?e=1742428800&v=beta&t=c-58dnssvZ7q2yF71h3yN5m0MU2_oofvHITrYtNmyWU)
 
 ### Hi there 👋, my name is Marufa Sumi
 #### I am Software Developer
