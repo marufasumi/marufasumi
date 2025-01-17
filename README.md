@@ -19,6 +19,6 @@ Skills:  JS / HTML / CSS/Java/ Salesforce (Apex, SOQL, Flows)/ S SQL,/PostgreSQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/marufasumi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://marufasumi.vercel.app)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/marufasumi&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&count_private=true)  
 
 
