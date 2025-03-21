@@ -1,7 +1,6 @@
-![I am Software Developer](https://media.licdn.com/dms/image/v2/C5616AQEqCjA5NQ4aJg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1667921467859?e=1742428800&v=beta&t=c-58dnssvZ7q2yF71h3yN5m0MU2_oofvHITrYtNmyWU)
 
 ### Hi there 👋, my name is Marufa Sumi
-#### I am Software Developer
+#### I am Salesforce  Developer
 
 I’m a technology professional with a versatile skill set spanning Adobe Experience Manager (AEM) authoring, Salesforce development and administration, and full-stack software engineering. I’m certified in Salesforce and have hands-on experience with tools like Java, Spring, SQL, PostgreSQL, HTML5, CSS, and JavaScript, allowing me to contribute across the entire software development lifecycle.
 
