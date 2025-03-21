@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Marufa Sumi
-#### I am Salesforce  Developer
+#### I am Salesforce  Developer || Georgia Instutute of Technology
 
 I’m a technology professional with a versatile skill set spanning Adobe Experience Manager (AEM) authoring, Salesforce development and administration, and full-stack software engineering. I’m certified in Salesforce and have hands-on experience with tools like Java, Spring, SQL, PostgreSQL, HTML5, CSS, and JavaScript, allowing me to contribute across the entire software development lifecycle.
 
@@ -12,7 +12,7 @@ If you’re looking for someone who can bring versatility, dedication, and a col
 
 Skills:  JS / HTML / CSS/Java/ Salesforce (Apex, SOQL, Flows)/ S SQL,/PostgreSQL/AEM Authoring
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently pursuing my masters on science at Analytics(Computational Data Analytics) degree @Georgia Institute of Technoilogy 
 - 📫 How to reach me: marufasumi081@gmail.com 
 
 
