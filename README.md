@@ -2,13 +2,23 @@
 ### Hi there 👋, my name is Marufa Sumi
 #### I am Salesforce  Developer || student @ Georgia Instutute of Technology
 
-I’m a technology professional with a versatile skill set spanning Adobe Experience Manager (AEM) authoring, Salesforce development and administration, and full-stack software engineering. I’m certified in Salesforce and have hands-on experience with tools like Java, Spring, SQL, PostgreSQL, HTML5, CSS, and JavaScript, allowing me to contribute across the entire software development lifecycle.
+I’m a certified Salesforce Developer and Administrator with a strong foundation in full-stack development and a passion for building scalable, user-centric solutions. With hands-on experience across Sales Cloud, Service Cloud, Flows, Apex, and Lightning Web Components (LWC), I specialize in customizing Salesforce platforms to meet diverse business needs.
 
-In my recent role, I wore two hats: as an AEM Author, I streamlined content management processes and optimized digital asset workflows, and as a Salesforce Developer, I enhanced system efficiency, automated workflows, and ensured data accuracy and security. I also supported comprehensive QA testing, bringing a meticulous approach to ensuring smooth functionality.
+My journey started in the pharmaceutical industry, and I later transitioned into technology where I’ve contributed to organizations in automotive, IT, and digital content management (AEM). I've developed automation processes, written Apex code within governor limits, built reports and dashboards, and created user-friendly experiences that drive productivity and insight.
 
-Additionally, I’ve built full-stack web applications as part of my development training, and my background in the pharmaceutical industry has sharpened my analytical and problem-solving skills. With certifications in Salesforce Data Cloud and AI, I’m passionate about leveraging technology to create innovative solutions and drive impactful results.
+Outside of Salesforce, I bring strong Java and Spring Boot development skills and have contributed to content authoring roles using Adobe Experience Manager (AEM). I believe in continuous learning, collaboration, and using tech to solve real-world problems.
 
-If you’re looking for someone who can bring versatility, dedication, and a collaborative spirit to your team, let’s connect—I’d love to explore how I can contribute to your success!
+🔹 Certifications
+
+Salesforce Certified Administrator
+
+Salesforce Platform Developer I
+
+Salesforce Certified AI Associate
+
+Salesforce Data Cloud Consultant
+
+If you're looking for a technically versatile, curious, and collaborative team player ready to grow and contribute, let’s connect!
 
 Skills:  JS / HTML / CSS/Java/ Salesforce (Apex, SOQL, Flows)/ S SQL,/PostgreSQL/AEM Authoring
 
