@@ -22,7 +22,7 @@ If you're looking for a technically versatile, curious, and collaborative team p
 
 Skills:  JS / HTML / CSS/Java/ Salesforce (Apex, SOQL, Flows)/ S SQL,/PostgreSQL/AEM Authoring
 
-- 🔭 I’m currently pursuing my masters on science at Analytics(Computational Data Analytics) degree @Georgia Institute of Technoilogy 
+- 🔭 <!--I’m currently pursuing my masters on science at Analytics(Computational Data Analytics) degree @Georgia Institute of Technoilogy -->
 - 📫 How to reach me: marufasumi081@gmail.com 
 
 
