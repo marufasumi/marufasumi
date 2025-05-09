@@ -1,6 +1,6 @@
 
 ### Hi there 👋, my name is Marufa Sumi
-#### I am Salesforce  Developer || Software Engineer
+#### I am a Salesforce  Developer & Full stack Software Engineer
 
 I’m a certified Salesforce Developer and Administrator with a strong foundation in full-stack development and a passion for building scalable, user-centric solutions. With hands-on experience across Sales Cloud, Service Cloud, Flows, Apex, and Lightning Web Components (LWC), I specialize in customizing Salesforce platforms to meet diverse business needs.
 
