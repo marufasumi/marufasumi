@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-%F0%9F%92%BB-blue?style=for-the-badge" alt="Data Analytics Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-%F0%9F%92%BB-blue?style=for-the-badge" alt="Data Scientist Badge"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Marufa Sultana Sumi</h1>
