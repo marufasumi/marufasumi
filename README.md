@@ -132,8 +132,6 @@ I enjoy turning complex, noisy datasets into **clear, actionable insights** that
 
 ## 📊 GitHub Overview (Stable Badges)
 
-These badges are simple but reliable (no external stats service needed):
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=marufasumi&color=blue" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/marufasumi?style=social" alt="GitHub followers" />
