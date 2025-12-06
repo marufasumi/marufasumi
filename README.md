@@ -59,6 +59,12 @@ Feel free to connect with me on LinkedIn:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/marufasumi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://marufasumi.vercel.app)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&count_private=true)  
+---
+
+### 📊 GitHub Stats
+
+![Marufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact&theme=tokyonight&hide_border=true)
 
 
