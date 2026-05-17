@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Marufa Sultana Sumi</h1>
 
 <h3 align="center">
-  Data Analyst • Clinical Data Science Enthusiast • Healthcare & Pharmaceutical Analytics
+  Healthcare Data Engineer • Clinical Data Science Enthusiast • Healthcare & Pharmaceutical Analytics
 </h3>
 
 <p align="center">
