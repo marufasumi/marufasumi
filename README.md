@@ -1,284 +1,179 @@
 <!-- PROFILE HEADER -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Data%20Engineer-🚀-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-%F0%9F%92%BB-blue?style=for-the-badge" alt="Data Engineer Badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-%F0%9F%A4%96-orange?style=for-the-badge" alt="ML Badge"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Marufa Sultana Sumi</h1>
+<h1 align="center">Hi there 👋, I'm Marufa Sumi</h1>
 
 <h3 align="center">
-AI Data Engineer | Azure | Databricks | PySpark | Delta Lake | Data Platforms | Machine Learning
+  AI Data Engineer | Azure • Databricks • Spark | Healthcare AI | Salesforce Data Cloud & Agentforce | Building AI-Ready Data Platforms
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marufasumi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Marufa%20Sumi-blue?style=flat&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Marufa%20Sumi-blue?style=flat&logo=linkedin" />
   </a>
-
   <a href="mailto:marufasumi896@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marufasumi896%40gmail.com-red?style=flat&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-marufasumi896%40gmail.com-red?style=flat&logo=gmail" />
   </a>
-
   <a href="https://github.com/marufasumi">
-    <img src="https://img.shields.io/badge/GitHub-marufasumi-black?style=flat&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-marufasumi-black?style=flat&logo=github" />
   </a>
-
   <a href="https://marufasumi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Website-success?style=flat"/>
+    <img src="https://img.shields.io/badge/Portfolio-marufasumi.vercel.app-brightgreen?style=flat&logo=vercel" />
   </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm an **AI Data Engineer** passionate about building scalable, cloud-native data platforms that power analytics, machine learning, and AI applications.
+I'm an **AI Data Engineer** who builds scalable, AI-ready data platforms at the intersection of **data engineering, analytics, and machine learning** — with deep domain expertise in **healthcare** and enterprise (Salesforce/automotive) ecosystems.
 
-My background combines:
+My path into data engineering started in **pharmaceutical QC and research** (HPLC/GC/UV–Vis, GMP, assay validation), which gave me a rigorous foundation in **data integrity, compliance, and evidence-based decision-making**. Today, I apply that same rigor to building **Lakehouse architectures, healthcare interoperability pipelines, and ML-driven analytics platforms**.
 
-- ☁️ Cloud Data Engineering
-- 📊 Analytics & Machine Learning
-- 🏥 Healthcare & Pharmaceutical Data
-- 🚗 Automotive Enterprise Solutions
+I'm currently pursuing an **M.S. in Analytics at Georgia Tech**, and hold an **M.S. in Information (Health Informatics) from the University of Michigan** (75% Merit Scholar), focusing on:
 
-Currently I'm pursuing:
-
-- **M.S. in Analytics** — Georgia Institute of Technology
-- **M.S. in Information (Health Informatics)** — University of Michigan
-
-I enjoy designing end-to-end data pipelines, modern lakehouse architectures, and AI-ready data platforms using Azure and Databricks.
+- Data engineering & Lakehouse architecture (Databricks, Delta Lake, PySpark)
+- Machine learning & deep learning for healthcare applications
+- Healthcare interoperability (HL7 FHIR) & population health analytics
+- Real-world evidence (RWE) and pharmacovigilance analytics
 
 ---
 
-# 🚀 Current Focus
+## 🎯 Current Focus
 
-- Azure Data Engineering
-- Databricks Lakehouse Architecture
-- Delta Lake & PySpark
-- AI-ready Data Platforms
-- Data Warehousing & ETL
-- Machine Learning Pipelines
-- Healthcare Data Engineering
-- Enterprise Analytics
+- Building **AI-ready data platforms** on Databricks / Delta Lake / PySpark
+- Designing **HL7 FHIR-based** clinical data pipelines and patient analytics
+- Working with **Salesforce Data Cloud, Health Cloud, and Agentforce** for AI-driven healthcare & enterprise solutions
+- Applying **ML/DL** to healthcare, pharmacovigilance, and population health use cases
+- Strengthening time-series forecasting & predictive modeling skills
 
 ---
 
-# 🛠 Tech Stack
+## 🧠 Tech & Tools
 
-## Languages
+### 🔹 Data Engineering & Cloud
 
-- Python
-- SQL
-- JavaScript
-- R (Basic)
-- Bash
+- **Databricks**, **PySpark**, **Delta Lake** (Lakehouse architecture)
+- **Azure**
+- **SQL**, **Python** (Pandas, NumPy, SciPy)
+- **HL7 FHIR** & healthcare interoperability
 
----
+### 🔹 Machine Learning & Deep Learning
 
-## Data Engineering
+- **Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation (Accuracy, F1, ROC-AUC, RMSE, MAE)
+- **Deep Learning:** TensorFlow, Keras, CNNs, basic Transformer architectures
+- **Medical Imaging:** Hybrid CNN–Transformer model for MRI tumor classification
 
-- Azure Data Factory
-- Azure Data Lake Storage Gen2
-- Azure Event Hub
-- Azure Synapse Analytics
-- Databricks
-- PySpark
-- Delta Lake
-- Spark SQL
+### 🔹 Salesforce Ecosystem
 
----
+- **Salesforce Data Cloud**, **Salesforce Health Cloud**, **Agentforce**
+- **Apex**, **Lightning Web Components (LWC)**, Flows, Batch/Scheduled Apex
+- Copado, GitLab CI/CD, Agile delivery
 
-## Databases
+### 🔹 Healthcare & Research Analytics
 
-- SQL Server
-- PostgreSQL
-- DuckDB
-- Delta Lake
-- ChromaDB
+- FAERS pharmacovigilance & drug safety signal analysis
+- Population health & healthcare claims analytics
+- Clinical data systems, real-world evidence (RWE)
+- Experimental design, hypothesis testing, statistical modeling
+- Pharma QC, GMP, assay/stability studies
 
----
+### 🔹 Visualization & Dev Tools
 
-## Machine Learning
-
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Pandas
-- NumPy
-- SciPy
+- Power BI, Jupyter Notebook, Excel (advanced), Matplotlib, Seaborn
+- Git, GitHub, Bash / basic Linux, REST API integration
 
 ---
 
-## Cloud & DevOps
+## 💼 Experience Highlights
 
-- Git
-- GitHub
-- GitHub Actions
-- REST APIs
-- CI/CD
-- Docker (Learning)
+- **Associate Technical Consultant (Salesforce & Data Solutions), Perficient** — Detroit, MI (2023–2024)
+  Built Salesforce solutions (Apex, LWC, Flows, Batch/Scheduled Apex) for a large automotive enterprise; delivered integrations, automation workflows, and BI dashboards using Agile/CI-CD practices.
 
----
+- **PhD Research Scholar (Pharmaceutical Science), Shanghai Jiao Tong University** — Shanghai, China (2016–2018)
+  Wet-lab research in drug stability, reaction kinetics, and analytical chemistry; spectrophotometric quantification and impurity profiling.
 
-## Visualization
-
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel
+- **Senior Officer / Quality Control Officer, Renata PLC & Incepta Pharmaceuticals Ltd.** — Bangladesh (2013–2016)
+  HPLC/UV–Vis/GC/IR analysis, GMP documentation, assay validation, and data-driven quality investigations.
 
 ---
 
-## Salesforce
+## 📚 Publications
 
-- Salesforce Data Cloud
-- Salesforce Health Cloud
-- Agentforce
-- Apex
-- Lightning Web Components
-- Flow Automation
+- **A Hybrid CNN–Transformer Model for Accurate Brain Tumor Classification from MRI Scans** — *Under Review (2025)*
+  99.56% accuracy, 99.56% F1-score, 99.57% precision, 99.54% recall.
 
----
-
-# 📚 Featured Projects
-
-## 🚀 Azure Healthcare Lakehouse
-
-Built an end-to-end healthcare data platform using:
-
-- Azure Data Lake
-- Azure Data Factory
-- Databricks
-- Delta Lake
-- Synapse Analytics
-- Power BI
-
-Features:
-
-- Bronze / Silver / Gold Architecture
-- ETL Pipelines
-- Delta Tables
-- Analytics Dashboard
+- **Using Ensemble Approaches and Different Sampling Techniques to Handle Class-Imbalance Challenges in Coronary Heart Disease Prediction** — *IEEE Xplore, 2023*
+  Ensemble models and sampling frameworks for clinical risk prediction.
 
 ---
 
-## 📊 FAERS Pharmacovigilance Analytics
+## 🧪 Selected Projects
 
-Designed a complete analytics pipeline for FDA FAERS data.
+> 🔗 Many projects live in [`Python-for-Data-Science-My-Learning`](https://github.com/marufasumi/Python-for-Data-Science-My-Learning)
 
-Highlights
+### 🏥 Enterprise Healthcare Analytics & Clinical AI Platform (Databricks)
+Lakehouse-based platform combining Databricks, PySpark, and Delta Lake for clinical data engineering and analytics.
 
-- Data Cleaning
-- Feature Engineering
-- Machine Learning
-- Drug Safety Analytics
-- Risk Prediction
-- Statistical Analysis
+### 🔗 HL7 FHIR Clinical Data Platform & Patient Analytics
+Built interoperable healthcare data pipelines using HL7 FHIR standards to support patient-level analytics.
 
----
+### 💊 FAERS Pharmacovigilance & Drug Safety Analytics Platform
+Cleaned and transformed FAERS data; analyzed drug–event frequencies and applied ML to flag high-risk drug-event combinations.
 
-## 🚗 Enterprise Salesforce Solutions
+### 📊 Healthcare Claims & Population Health Analytics
+Built claims-based analytics for population health insights and operational decision support.
 
-Developed enterprise applications including
+### ☁️ Salesforce Data Cloud Healthcare Patient 360 Implementation
+Implemented a unified Patient 360 view using Salesforce Data Cloud and Health Cloud.
 
-- Apex
-- Lightning Web Components
-- Batch Processing
-- Flow Automation
-- REST Integrations
-- CI/CD Deployment
+### 🧠 Brain Tumor Classification (CNN + Transformer)
+Hybrid CNN–Transformer model in TensorFlow/Keras for MRI-based brain tumor classification, with full preprocessing, augmentation, training, and evaluation pipeline.
 
----
+### ❤️ Cardiovascular Disease Risk Prediction
+Logistic Regression, Random Forest, and XGBoost models with SMOTE for class imbalance and feature engineering.
 
-## 📈 Healthcare Machine Learning
-
-Machine learning projects including
-
-- Classification
-- Regression
-- Feature Engineering
-- Model Evaluation
-- Predictive Analytics
+### 📈 Time-Series Forecasting for Healthcare Metrics
+ARIMA, SARIMA, and Prophet models with rolling/expanding window cross-validation, evaluated via RMSE and MAPE.
 
 ---
 
-## 🧠 Brain Tumor Classification
+## 🎓 Education
 
-Hybrid CNN + Transformer model for MRI classification.
-
-Achievements
-
-- 99.56% Accuracy
-- TensorFlow
-- Keras
-- Medical Imaging
+- **M.S. Analytics** — Georgia Institute of Technology *(2024–2027)*
+- **M.S. Information (Health Informatics)** — University of Michigan School of Information *(75% Merit Scholar)*
+- **Bachelor of Pharmacy** — State University of Bangladesh *(2009–2013)*
 
 ---
 
-# 📖 Publications
+## 📜 Certifications
 
-### A Hybrid CNN–Transformer Model for Accurate Brain Tumor Classification from MRI Scans
-
-*Under Review (2025)*
-
-- 99.56% Accuracy
-- 99.56% F1 Score
-
----
-
-### Coronary Heart Disease Prediction Using Ensemble Learning
-
-Published in **IEEE Xplore (2023)**
-
-Topics
-
-- Machine Learning
-- Ensemble Methods
-- Healthcare Analytics
+- Salesforce Certified Administrator
+- Salesforce Certified AI Associate
+- Apex Specialist Superbadge
+- edX Verified Certificate — Introduction to Java Programming
+- Agile Methodology Virtual Experience Program
 
 ---
 
-# 🌱 Currently Learning
+## 📊 GitHub Overview
 
-- Advanced Spark Optimization
-- Apache Kafka
-- Apache Airflow
-- Data Mesh
-- Microsoft Fabric
-- Kubernetes
-- MLOps
-- LLM & RAG Applications
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact"/>
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=marufasumi&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/marufasumi?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/marufasumi?style=social" alt="GitHub stars" />
 </p>
 
 ---
 
-# 📫 Let's Connect
+## 🔗 Connect with Me
 
-I'm always interested in collaborating on:
+If you're working on **healthcare data engineering, Lakehouse/ML platforms, Salesforce AI, or pharmacovigilance analytics**, I'd love to connect and collaborate.
 
-- Data Engineering
-- Azure
-- Databricks
-- AI Applications
-- Machine Learning
-- Healthcare Analytics
-- Enterprise Data Platforms
-
-💼 LinkedIn: https://linkedin.com/in/marufasumi
-
-📧 Email: marufasumi896@gmail.com
-
-🌐 Portfolio: https://marufasumi.vercel.app
-
----
+- 💼 LinkedIn: [linkedin.com/in/marufasumi](https://www.linkedin.com/in/marufasumi/)
+- 📧 Email: [marufasumi896@gmail.com](mailto:marufasumi896@gmail.com)
+- 🧪 GitHub: [github.com/marufasumi](https://github.com/marufasumi)
+- 🌐 Portfolio: [marufasumi.vercel.app](https://marufasumi.vercel.app)
