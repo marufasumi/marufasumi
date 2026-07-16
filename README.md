@@ -174,6 +174,6 @@ ARIMA, SARIMA, and Prophet models with rolling/expanding window cross-validation
 If you're working on **healthcare data engineering, Lakehouse/ML platforms, Salesforce AI, or pharmacovigilance analytics**, I'd love to connect and collaborate.
 
 - 💼 LinkedIn: [linkedin.com/in/marufasumi](https://www.linkedin.com/in/marufasumi/)
-- 📧 Email: [marufasumi896@gmail.com](mailto:marufasumi896@gmail.com)
+- 📧 Email: [marufasumi896@gmail.com](mailto:marufasumi081@gmail.com)
 - 🧪 GitHub: [github.com/marufasumi](https://github.com/marufasumi)
 - 🌐 Portfolio: [marufasumi.vercel.app](https://marufasumi.vercel.app)
