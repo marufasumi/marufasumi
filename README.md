@@ -1,151 +1,284 @@
 <!-- PROFILE HEADER -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-%F0%9F%92%BB-blue?style=for-the-badge" alt="Data Scientist Badge"/>
+  <img src="https://img.shields.io/badge/AI%20Data%20Engineer-🚀-blue?style=for-the-badge"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Marufa Sultana Sumi</h1>
+<h1 align="center">Hi 👋, I'm Marufa Sultana Sumi</h1>
 
 <h3 align="center">
-  Healthcare Data Engineer • Clinical Data Science Enthusiast • Healthcare & Pharmaceutical Analytics
+AI Data Engineer | Azure | Databricks | PySpark | Delta Lake | Data Platforms | Machine Learning
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marufasumi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Marufa%20Sumi-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Marufa%20Sumi-blue?style=flat&logo=linkedin"/>
   </a>
-  <a href="mailto:marufasumi081@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marufasumi081%40gmail.com-red?style=flat&logo=gmail" />
+
+  <a href="mailto:marufasumi896@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marufasumi896%40gmail.com-red?style=flat&logo=gmail"/>
   </a>
+
   <a href="https://github.com/marufasumi">
-    <img src="https://img.shields.io/badge/GitHub-marufasumi-black?style=flat&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-marufasumi-black?style=flat&logo=github"/>
+  </a>
+
+  <a href="https://marufasumi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Website-success?style=flat"/>
   </a>
 </p>
 
 ---
 
-## 👩‍🔬 About Me
+# 👩‍💻 About Me
 
-I am a **Data Analyst and aspiring Clinical Data Scientist** with experience in:
+I'm an **AI Data Engineer** passionate about building scalable, cloud-native data platforms that power analytics, machine learning, and AI applications.
 
-- **Pharmaceutical research & QC** (HPLC/GC/UV–Vis, GMP, assay validation)
-- **Healthcare data & ML** (FAERS pharmacovigilance, risk prediction, medical imaging)
-- **Software development & automation** (Python, JS, REST APIs)
+My background combines:
 
-Currently, I’m pursuing my **MS in Analytics at Georgia Tech**, focusing on:
+- ☁️ Cloud Data Engineering
+- 📊 Analytics & Machine Learning
+- 🏥 Healthcare & Pharmaceutical Data
+- 🚗 Automotive Enterprise Solutions
 
-- Statistical modeling  
-- Machine learning & deep learning  
-- Time-series forecasting  
-- Healthcare & clinical analytics  
+Currently I'm pursuing:
 
-I enjoy turning complex, noisy datasets into **clear, actionable insights** that support scientific, operational, and clinical decision-making.
+- **M.S. in Analytics** — Georgia Institute of Technology
+- **M.S. in Information (Health Informatics)** — University of Michigan
 
----
-
-## 🎯 Current Focus
-
-- Building ML and DL models for **healthcare and clinical applications**
-- Analyzing **FAERS** and other real-world data for drug safety insights
-- Strengthening foundations in **time-series forecasting** and **predictive modeling**
-- Growing towards a role as a **Clinical Data Scientist / Healthcare Data Analyst**
+I enjoy designing end-to-end data pipelines, modern lakehouse architectures, and AI-ready data platforms using Azure and Databricks.
 
 ---
 
-## 🧠 Tech & Tools
+# 🚀 Current Focus
 
-### 🔹 Languages & Analytics
-
-- **Python** (Pandas, NumPy, SciPy, Scikit-learn)  
-- **SQL**  
-- **R (basic)**  
-- **JavaScript**, **HTML**, **CSS**  
-
-### 🔹 Machine Learning & Deep Learning
-
-- **Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation (Accuracy, F1, ROC-AUC, RMSE, MAE)  
-- **Deep Learning:** TensorFlow, Keras, **CNNs**, basic Transformer architectures  
-- **Medical Imaging:** Hybrid CNN–Transformer model for MRI tumor classification  
-
-### 🔹 Healthcare & Research Analytics
-
-- **FAERS pharmacovigilance**  
-- Clinical & drug safety data analysis  
-- Experimental design, hypothesis testing, statistical modeling  
-- Pharma QC, GMP, assay/stability studies  
-
-### 🔹 Data & Visualization Tools
-
-- Jupyter Notebook  
-- Power BI  
-- Excel (advanced)  
-- Matplotlib, Seaborn  
-
-### 🔹 Dev & Other
-
-- Git, GitHub  
-- Bash / basic Linux  
-- REST API integration  
-- JSON / CSV / Excel processing  
+- Azure Data Engineering
+- Databricks Lakehouse Architecture
+- Delta Lake & PySpark
+- AI-ready Data Platforms
+- Data Warehousing & ETL
+- Machine Learning Pipelines
+- Healthcare Data Engineering
+- Enterprise Analytics
 
 ---
 
-## 📚 Publications
+# 🛠 Tech Stack
 
-- **A Hybrid CNN–Transformer Model for Accurate Brain Tumor Classification from MRI Scans**  
-  *Under Review (2025)* – Achieved **99.56% accuracy**, **99.56% F1-score**, **99.57% precision**, **99.54% recall**.  
+## Languages
 
-- **Using Ensemble Approaches and Different Sampling Techniques to Handle Class-Imbalance Challenges in Coronary Heart Disease Prediction**  
-  *Published in IEEE Xplore (2023)* – Built ensemble models and sampling frameworks for clinical risk prediction.
-
----
-
-## 🧪 Highlighted Projects
-
-> 🔗 Feel free to explore the repositories linked below. Many live in  
-> [`Python-for-Data-Science-My-Learning`](https://github.com/marufasumi/Python-for-Data-Science-My-Learning).
-
-### 🧠 Brain Tumor Classification (CNN + Transformer)
-
-- Built a **hybrid CNN–Transformer model** in TensorFlow/Keras for **MRI-based brain tumor classification**  
-- Performed preprocessing, augmentation, training, and evaluation (Accuracy, F1, ROC-AUC)  
-- Repository: *(link to the exact folder or repo once finalized)*
-
-### ❤️ Cardiovascular Disease Risk Prediction
-
-- Used Logistic Regression, Random Forest, and XGBoost to predict **heart disease risk**  
-- Applied **class imbalance techniques (e.g., SMOTE)** and feature engineering  
-- Evaluated models using precision, recall, F1, ROC-AUC
-
-### 💊 FAERS Adverse Event Signal Mining
-
-- Cleaned and transformed **FAERS** pharmacovigilance data  
-- Analyzed drug–event frequencies and patterns for safety signal detection  
-- Experimented with ML models to identify high-risk drug-event combinations
-
-### 📈 Time-Series Forecasting for Healthcare Metrics
-
-- Built ARIMA, SARIMA, and Prophet models for simulated healthcare time-series  
-- Used rolling/expanding windows for cross-validation  
-- Evaluated performance with RMSE, MAPE, and visual diagnostics
+- Python
+- SQL
+- JavaScript
+- R (Basic)
+- Bash
 
 ---
 
-## 📊 GitHub Overview (Stable Badges)
+## Data Engineering
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=marufasumi&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/marufasumi?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/marufasumi?style=social" alt="GitHub stars" />
+- Azure Data Factory
+- Azure Data Lake Storage Gen2
+- Azure Event Hub
+- Azure Synapse Analytics
+- Databricks
+- PySpark
+- Delta Lake
+- Spark SQL
+
+---
+
+## Databases
+
+- SQL Server
+- PostgreSQL
+- DuckDB
+- Delta Lake
+- ChromaDB
+
+---
+
+## Machine Learning
+
+- Scikit-Learn
+- TensorFlow
+- Keras
+- Pandas
+- NumPy
+- SciPy
+
+---
+
+## Cloud & DevOps
+
+- Git
+- GitHub
+- GitHub Actions
+- REST APIs
+- CI/CD
+- Docker (Learning)
+
+---
+
+## Visualization
+
+- Power BI
+- Matplotlib
+- Seaborn
+- Excel
+
+---
+
+## Salesforce
+
+- Salesforce Data Cloud
+- Salesforce Health Cloud
+- Agentforce
+- Apex
+- Lightning Web Components
+- Flow Automation
+
+---
+
+# 📚 Featured Projects
+
+## 🚀 Azure Healthcare Lakehouse
+
+Built an end-to-end healthcare data platform using:
+
+- Azure Data Lake
+- Azure Data Factory
+- Databricks
+- Delta Lake
+- Synapse Analytics
+- Power BI
+
+Features:
+
+- Bronze / Silver / Gold Architecture
+- ETL Pipelines
+- Delta Tables
+- Analytics Dashboard
+
+---
+
+## 📊 FAERS Pharmacovigilance Analytics
+
+Designed a complete analytics pipeline for FDA FAERS data.
+
+Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Machine Learning
+- Drug Safety Analytics
+- Risk Prediction
+- Statistical Analysis
+
+---
+
+## 🚗 Enterprise Salesforce Solutions
+
+Developed enterprise applications including
+
+- Apex
+- Lightning Web Components
+- Batch Processing
+- Flow Automation
+- REST Integrations
+- CI/CD Deployment
+
+---
+
+## 📈 Healthcare Machine Learning
+
+Machine learning projects including
+
+- Classification
+- Regression
+- Feature Engineering
+- Model Evaluation
+- Predictive Analytics
+
+---
+
+## 🧠 Brain Tumor Classification
+
+Hybrid CNN + Transformer model for MRI classification.
+
+Achievements
+
+- 99.56% Accuracy
+- TensorFlow
+- Keras
+- Medical Imaging
+
+---
+
+# 📖 Publications
+
+### A Hybrid CNN–Transformer Model for Accurate Brain Tumor Classification from MRI Scans
+
+*Under Review (2025)*
+
+- 99.56% Accuracy
+- 99.56% F1 Score
+
+---
+
+### Coronary Heart Disease Prediction Using Ensemble Learning
+
+Published in **IEEE Xplore (2023)**
+
+Topics
+
+- Machine Learning
+- Ensemble Methods
+- Healthcare Analytics
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Spark Optimization
+- Apache Kafka
+- Apache Airflow
+- Data Mesh
+- Microsoft Fabric
+- Kubernetes
+- MLOps
+- LLM & RAG Applications
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact"/>
+
 </p>
 
 ---
 
-## 🔗 Connect with Me
+# 📫 Let's Connect
 
-If you're working on **healthcare data, ML research, pharmacovigilance, or analytics projects**, I’d love to connect and collaborate.
+I'm always interested in collaborating on:
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/marufasumi/](https://www.linkedin.com/in/marufasumi/)  
-- 📧 Email: [marufasumi081@gmail.com](mailto:marufasumi081@gmail.com)  
-- 🧪 GitHub: [https://github.com/marufasumi](https://github.com/marufasumi)
+- Data Engineering
+- Azure
+- Databricks
+- AI Applications
+- Machine Learning
+- Healthcare Analytics
+- Enterprise Data Platforms
+
+💼 LinkedIn: https://linkedin.com/in/marufasumi
+
+📧 Email: marufasumi896@gmail.com
+
+🌐 Portfolio: https://marufasumi.vercel.app
 
 ---
