@@ -160,19 +160,29 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 
 ---
 <p>
-<img src="https://img.shields.io/badge/📊%20GitHub%20Activity-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📊%20GitHub%20Activity-7C3AED?style=for-the-badge"/>
 </p>
-
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400"
+  alt="Marufa Sumi GitHub statistics"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact&langs_count=8" alt="Top languages" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400"
+  alt="Marufa Sumi top languages"
+/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=marufasumi" alt="GitHub streak" />
+<img
+  src="https://streak-stats.demolab.com?user=marufasumi&hide_border=true&theme=transparent"
+  alt="Marufa Sumi GitHub contribution streak"
+/>
 
 </div>
 
