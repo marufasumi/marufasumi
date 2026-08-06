@@ -63,19 +63,28 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 | 🏥 **Healthcare Informatics & AI Platform** | Healthcare Lakehouse architecture for analytics and AI-ready data products | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square) | [GitHub](https://github.com/marufasumi/enterprise-healthcare-informatics-ai-platform) | — |
 
 
+---
+
 ## 💼 Experience
 
-**Associate Technical Consultant — Salesforce & Data Solutions**
-*Perficient | Aug 2023 – Dec 2024*
-Built Salesforce solutions (Apex, LWC, Flows, Batch Apex) for a large automotive enterprise; developed integrations, dashboards, and CI/CD pipelines (Copado, GitLab) in an Agile environment.
+### Associate Technical Consultant — Perficient
+**Detroit, Michigan | August 2023 – December 2024**
 
-**PhD Research Scholar — Pharmaceutical Science**
-*Shanghai Jiao Tong University | Sep 2016 – Aug 2018*
-Researched drug stability, reaction kinetics, and analytical chemistry; conducted spectrophotometric quantification and impurity profiling.
+- Developed enterprise Salesforce solutions using Apex, LWC, Flows, Triggers, Batch Apex, and Scheduled Apex
+- Built automation workflows, integrations, reports, dashboards, and data-processing solutions
+- Supported a large automotive client using Agile, GitLab, Copado, and CI/CD practices
 
-**Senior Officer / QC Officer — Quality Control**
-*Renata PLC & Incepta Pharmaceuticals | Dec 2013 – Aug 2016*
-Analyzed pharmaceutical raw materials and finished products (HPLC, UV–Vis, GC, FT-IR); supported GMP documentation, batch release, and stability analysis.
+### PhD Research Scholar — Shanghai Jiao Tong University
+**Shanghai, China | September 2016 – August 2018**
+
+- Conducted pharmaceutical research in drug stability, reaction kinetics, and analytical chemistry
+- Performed spectrophotometric quantification, dissolution studies, and impurity profiling
+
+### Pharmaceutical Quality Control — Renata PLC & Incepta Pharmaceuticals
+**Bangladesh | December 2013 – August 2016**
+
+- Performed HPLC, UV–Vis, GC, FT-IR, and dissolution analysis
+- Supported GMP documentation, assay validation, batch release, and analytical investigations
 
 ---
 
