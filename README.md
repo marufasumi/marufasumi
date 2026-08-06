@@ -21,20 +21,34 @@ I am an AI Data Engineer with experience across pharmaceutical research, healthc
 I build AI-ready data platforms using Azure, Databricks, PySpark, Delta Lake, SQL, and Python. My portfolio includes healthcare analytics, FDA FAERS pharmacovigilance, Retrieval-Augmented Generation, Salesforce Data Cloud, and machine learning applications.
 
 Previously, I worked as an Associate Technical Consultant at Perficient, developing enterprise Salesforce solutions, automation workflows, integrations, reports, and dashboards for a large automotive client.**.
-
 ---
-
 ## 🧠 Technical Skills
 
-**Data Engineering & Cloud:** Databricks · PySpark · Delta Lake · Azure (Data Lake, Data Factory, Synapse) · SQL · ETL/ELT · Medallion Architecture
+| Area | Skills |
+|---|---|
+| **Data Engineering** | Databricks, PySpark, Apache Spark, Delta Lake, Azure, SQL, ETL/ELT, Data Modeling, Lakehouse Architecture |
+| **AI & Machine Learning** | Python, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras, Classification, Regression, Clustering |
+| **Generative AI** | LangChain, OpenAI, ChromaDB, BM25, Hybrid Retrieval, RAG, Query Routing, Streamlit |
+| **Healthcare Analytics** | FDA FAERS, Pharmacovigilance, HL7 FHIR, Clinical Analytics, Real-World Evidence |
+| **Salesforce** | Data Cloud, Health Cloud, Agentforce, Apex, LWC, Flows, SOQL, Batch Apex |
+| **Tools** | Git, GitHub, Power BI, Plotly, Jupyter Notebook, Bash, REST APIs |
 
-**AI / ML / GenAI:** Python · LangChain · OpenAI · ChromaDB · Streamlit · scikit-learn · TensorFlow/Keras · RAG (dense/sparse retrieval, BM25, RRF, query routing) · Regression, Classification, Deep Learning
+<br>
 
-**Healthcare & Life Sciences:** HL7 FHIR · Pharmacovigilance (FDA FAERS) · Real-World Evidence · Clinical/Population-Health Analytics · GMP & Drug Stability Research
-
-**Salesforce:** Data Cloud · Health Cloud · Agentforce · Apex · LWC · Flows · Batch/Scheduled Apex
-
-**Tools:** Pandas, NumPy, Power BI, Plotly, Git/GitHub, Linux
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/HL7%20FHIR-E34F26?style=flat-square" />
+</p>
 
 ---
 
