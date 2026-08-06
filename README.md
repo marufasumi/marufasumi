@@ -161,28 +161,14 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/📊%20GitHub%20Activity-7C3AED?style=for-the-badge" alt="GitHub Activity"/>
+  <img src="https://img.shields.io/badge/📊%20GitHub%20Activity-7C3AED?style=for-the-badge"/>
 </p>
 
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-  alt="Marufa Sumi GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact&theme=transparent&hide_border=true"
-  alt="Marufa Sumi Top Languages"
-/>
-
-<br><br>
-
-<img
   src="https://streak-stats.demolab.com?user=marufasumi&theme=transparent&hide_border=true"
-  alt="Marufa Sumi GitHub Streak"
+  alt="GitHub Streak"
 />
 
 </div>
