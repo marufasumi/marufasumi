@@ -14,7 +14,7 @@
 
 ---
 <p>
-  <img src="https://img.shields.io/badge/👩‍💻%20About%20Me-2563EB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/👩‍💻%20About%20Me-009688?style=for-the-badge"/>
 </p>
 ## 👩‍💻 About Me
 
