@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 I am an AI Data Engineer with experience across pharmaceutical research, healthcare analytics, enterprise Salesforce development, data engineering, machine learning, and generative AI.
 
