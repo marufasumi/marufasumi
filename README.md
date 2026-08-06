@@ -56,17 +56,17 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [PharmacologyGPT](https://github.com/marufasumi/PharmacologyGPT-RAG) | Hybrid RAG assistant for pharmacology (local docs + web search) | LangChain, OpenAI, ChromaDB, Streamlit |
-| FAERS Drug Safety Analytics | Predicts serious adverse drug events from FDA FAERS data | Python, scikit-learn, Plotly |
-| [Healthcare Informatics Platform](https://github.com/marufasumi/enterprise-healthcare-informatics-ai-platform) | AI-ready healthcare Lakehouse architecture | Databricks, PySpark, Delta Lake |
-| Brain Tumor Classification | Hybrid CNN–Transformer for MRI classification (99.56% acc.) | TensorFlow, Keras |
-| CHD Prediction | IEEE-published coronary heart disease risk model | scikit-learn, SMOTE |
-| Salesforce Patient 360 | Unified healthcare data via Data Cloud | Salesforce, Health Cloud |
-| [Portfolio Website](https://github.com/marufasumi/Portfolio) | Personal portfolio site | Web Dev, Vercel |
+| Project | Summary | Tech Stack | Repository | Live Demo |
+|---|---|---|---|---|
+| 💊 **PharmacologyGPT** | Hybrid RAG assistant for pharmacology using textbook retrieval and web search | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) | [GitHub](https://github.com/marufasumi/PharmacologyGPT-RAG) | [Live App](https://pharmacologygpt.streamlit.app) |
+| 💊 **FAERS Drug Safety Analytics** | Predicts serious adverse drug events using more than 406,000 FDA FAERS reports | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | [GitHub](https://github.com/marufasumi/FAERS-Safety-Analytics) | Coming Soon |
+| 🏥 **Healthcare Informatics & AI Platform** | Healthcare Lakehouse architecture for analytics and AI-ready data products | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square) | [GitHub](https://github.com/marufasumi/enterprise-healthcare-informatics-ai-platform) | — |
+| ☁️ **Salesforce Development Portfolio** | Enterprise Salesforce development using Apex, LWC, Flows, and SOQL | ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-1798C1?style=flat-square) ![LWC](https://img.shields.io/badge/LWC-1798C1?style=flat-square) | [GitHub](https://github.com/marufasumi/My-SF-Development-Org) | — |
+| 🧠 **Brain Tumor Classification** | Hybrid CNN–Transformer model for MRI tumor classification | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | Research Project | — |
+| ❤️ **Coronary Heart Disease Prediction** | Ensemble learning and resampling methods for class-imbalanced clinical data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square) | IEEE Publication | — |
 
 ---
+
 
 ## 💼 Experience
 
