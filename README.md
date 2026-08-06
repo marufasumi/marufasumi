@@ -65,25 +65,56 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 ---
 ## 💼 Professional Experience
 
-### Associate Technical Consultant — Data & Salesforce Solutions  
-**Perficient | Detroit, Michigan | August 2023 – December 2024**
+### Associate Technical Consultant — Data & Salesforce Solutions
+**Perficient** • Detroit, Michigan • **Aug 2023 – Dec 2024**
 
-- Analyzed business and operational data to support reporting, process improvement, and decision-making for a large automotive client
-- Built Salesforce reports, dashboards, automation workflows, and data-processing solutions using Apex, LWC, Flows, Triggers, Batch Apex, and Scheduled Apex
-- Developed and supported system integrations, data validation logic, and scalable enterprise solutions across Salesforce platforms
-- Collaborated with cross-functional Agile teams using GitLab, Copado, CI/CD pipelines, testing, and production support practices
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LWC-1798C1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square"/>
+</p>
 
-### PhD Research Scholar — Pharmaceutical Science  
-**Shanghai Jiao Tong University | Shanghai, China | September 2016 – August 2018**
+- Analyzed business and operational data to support reporting, process improvement, and decision-making for a large automotive client.
+- Built Salesforce reports, dashboards, automation workflows, and data-processing solutions using Apex, LWC, Flows, Triggers, Batch Apex, and Scheduled Apex.
+- Developed system integrations, data validation processes, and scalable enterprise applications.
+- Collaborated with cross-functional Agile teams using GitLab, Copado, and CI/CD practices.
 
-- Conducted data-driven pharmaceutical research in drug stability, reaction kinetics, and analytical chemistry
-- Performed spectrophotometric quantification, dissolution studies, impurity profiling, and interpretation of experimental results
+---
 
-### Pharmaceutical Quality Control  
-**Renata PLC & Incepta Pharmaceuticals | Bangladesh | December 2013 – August 2016**
+### PhD Research Scholar — Pharmaceutical Science
+**Shanghai Jiao Tong University** • Shanghai, China • **Sep 2016 – Aug 2018**
 
-- Generated, reviewed, and interpreted analytical data using HPLC, UV–Vis, GC, FT-IR, and dissolution testing
-- Supported GMP documentation, assay validation, batch release, deviation analysis, and data-driven quality investigations
+<p>
+  <img src="https://img.shields.io/badge/Research-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Analytical%20Chemistry-DC2626?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistics-0F766E?style=flat-square"/>
+</p>
+
+- Conducted data-driven pharmaceutical research in drug stability, reaction kinetics, and analytical chemistry.
+- Analyzed experimental data using statistical methods to support pharmaceutical research and publication.
+
+---
+
+### Pharmaceutical Quality Control
+**Renata PLC & Incepta Pharmaceuticals** • Bangladesh • **Dec 2013 – Aug 2016**
+
+<p>
+  <img src="https://img.shields.io/badge/Quality%20Control-DC2626?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Integrity-2563EB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GMP-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/HPLC-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Analytical%20Testing-F59E0B?style=flat-square"/>
+</p>
+
+- Generated and interpreted analytical laboratory data using HPLC, UV–Vis, GC, FT-IR, and dissolution testing.
+- Supported GMP documentation, assay validation, batch release, deviation investigations, and quality improvement initiatives.
+
+  ---
 
 ## 📚 Publications
 
