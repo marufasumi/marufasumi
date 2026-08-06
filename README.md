@@ -3,7 +3,7 @@
 # Hi, I'm Marufa Sumi 👋
 
 ### AI Data Engineer | Azure • Databricks • PySpark • Delta Lake
-### Healthcare AI | Machine Learning • Deep Learning • NLP
+### Healthcare AI | Machine Learning • Deep Learning • NLP • LLM
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marufa%20Sumi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marufasumi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-marufasumi.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://marufasumi.vercel.app)
