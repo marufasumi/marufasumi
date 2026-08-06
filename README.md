@@ -21,6 +21,8 @@ I am an AI Data Engineer with experience across pharmaceutical research, healthc
 I build AI-ready data platforms using Azure, Databricks, PySpark, Delta Lake, SQL, and Python. My portfolio includes healthcare analytics, FDA FAERS pharmacovigilance, Retrieval-Augmented Generation, Salesforce Data Cloud, and machine learning applications.
 
 Previously, I worked as an Associate Technical Consultant at Perficient, developing enterprise Salesforce solutions, automation workflows, integrations, reports, and dashboards for a large automotive client.**.
+
+
 ---
 ## 🧠 Technical Skills
 
