@@ -273,111 +273,34 @@ Search   Search     Search
 
 ---
 
-## 2. 💊 FAERS Pharmacovigilance & Drug Safety Analytics Platform
+## 💊 FAERS Drug Safety Analytics & Machine Learning Platform
 
-**Project focus:** Predicting serious adverse drug events using FDA FAERS data and statistical learning methods.
+<p>
+  <a href="https://github.com/marufasumi/FAERS-Safety-Analytics">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-streamlit-app-url.streamlit.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
 
-This end-to-end healthcare analytics project transforms raw FDA Adverse Event Reporting System data into a report-level analytical dataset and applies exploratory analysis, statistical testing, clustering, and supervised machine learning.
+An end-to-end healthcare analytics platform for predicting **serious adverse drug events** using the FDA Adverse Event Reporting System (FAERS). Built a complete data engineering and machine learning pipeline, from raw data integration and feature engineering to statistical analysis, predictive modeling, and an interactive Streamlit dashboard.
 
-### Business and healthcare objective
+### Highlights
 
-The project investigates whether demographic, drug, reaction, indication, reporter, and therapy-related characteristics can help identify reports associated with serious adverse outcomes.
+- Processed **406,184** adverse-event reports from **7 FAERS tables**
+- Engineered a **51-feature** analytical dataset
+- Performed EDA, statistical testing, clustering, and feature engineering
+- Evaluated **9 machine learning models** with cross-validation
+- Best model: **Random Forest**
+  - **Accuracy:** 92.58%
+  - **ROC-AUC:** 96.85%
+  - **F1-Score:** 93.25%
+- Built an interactive Streamlit application for analytics and prediction
 
-### Data engineering workflow
+**Tech Stack**
 
-```text
-FDA FAERS ASCII Tables
-        |
-        v
-DEMO • DRUG • REAC • OUTC • THER • INDI • RPSR
-        |
-        v
-Cleaning and Standardization
-        |
-        v
-Table-Level Aggregation
-        |
-        v
-One Row per FAERS Report
-        |
-        v
-Feature Engineering
-        |
-        v
-EDA + Statistical Testing
-        |
-        v
-Clustering + Supervised Modeling
-        |
-        v
-Interactive Streamlit Analytics Application
-```
-
-### Dataset scale
-
-- 406,184 adverse-event reports
-- 1,909,327 drug records
-- 1,445,416 reaction records
-- 1,186,115 indication records
-- 594,449 therapy records
-- 295,044 outcome records
-- 51-column analytical dataset
-- One modeling row per FAERS primary report
-
-### Analytical components
-
-- Demographic analysis
-- Missing-data assessment
-- Drug-burden analysis
-- Reaction-burden analysis
-- Indication and comorbidity flags
-- Therapy-duration features
-- Welch's t-tests
-- Mann–Whitney U tests
-- Chi-square tests
-- K-Means clustering
-- Classification modeling
-- Cross-validation
-- Hyperparameter tuning
-- Model evaluation and comparison
-
-### Models evaluated
-
-- Logistic Regression
-- Linear Discriminant Analysis
-- Quadratic Discriminant Analysis
-- Gaussian Naive Bayes
-- K-Nearest Neighbors
-- Support Vector Machine
-- Decision Tree
-- Random Forest
-- Neural Network
-
-### Best model
-
-**Random Forest**
-
-- Accuracy: **92.58%**
-- ROC-AUC: **96.85%**
-- F1-score: **93.25%**
-- Cross-validation accuracy: **92.44%**
-
-### Application features
-
-- Executive overview
-- Exploratory data analysis
-- Statistical analysis
-- Machine learning comparison
-- Clustering analysis
-- Serious-event prediction interface
-- Reusable data-loading and prediction utilities
-
-### Technology stack
-
-`Python` • `Pandas` • `NumPy` • `SciPy` • `scikit-learn` • `Streamlit` • `Plotly` • `Joblib`
-
-> The public repository and live application link will be added after final portfolio cleanup and documentation.
-
+`Python` • `SQL` • `Pandas` • `NumPy` • `SciPy` • `scikit-learn` • `Streamlit` • `Plotly`
 ---
 
 ## 3. 🏥 Enterprise Healthcare Informatics & AI Platform
