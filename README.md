@@ -163,19 +163,10 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
   <img src="https://img.shields.io/badge/📊%20GitHub%20Activity-7C3AED?style=for-the-badge"/>
 </p>
 
-<div align="center">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400"
-  alt="Marufa Sumi GitHub statistics"
-/>
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=86400"
-  alt="Marufa Sumi top languages"
-/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marufasumi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufasumi&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 <br><br>
 
