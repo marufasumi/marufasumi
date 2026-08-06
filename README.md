@@ -109,3 +109,17 @@ Open to collaborating on healthcare data engineering, RAG/agentic AI, Databricks
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marufasumi.vercel.app)
 
 </div>
+
+---
+
+## 📜 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce%20Administrator-Certified-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-Certified-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex%20Specialist-Superbadge-1798C1?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java%20Programming-edX-B22222?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agile-Experience-2496ED?style=flat-square" />
+</p>
+
+---
