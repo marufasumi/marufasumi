@@ -98,44 +98,35 @@ I am especially interested in building systems that connect **data engineering, 
 ## 🤖 Artificial Intelligence, RAG & Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras"/>
 </p>
 
-**Machine learning**
-
-- Regression and classification
-- Feature engineering and feature selection
-- Cross-validation and hyperparameter tuning
-- Model comparison and statistical evaluation
-- Logistic Regression, LDA, QDA, Naive Bayes, KNN, SVM
-- Decision Trees, Random Forest, Gradient Boosting
-- Neural networks and deep learning
-- Class-imbalance handling and resampling
-- Clustering and unsupervised learning
-- Accuracy, precision, recall, F1, ROC-AUC, RMSE, MAE, and R²
-
-**Generative AI and RAG**
-
-- Retrieval-Augmented Generation
-- Dense and sparse retrieval
-- BM25
-- Maximum Marginal Relevance
-- Reciprocal Rank Fusion
-- Query classification and routing
-- Query rewriting
-- Context fusion
-- Vector databases
-- Document ingestion and PDF processing
-- Web-search integration
-- Prompt engineering
-- Modular AI application architecture
+| 🧠 Machine Learning | 🚀 Generative AI & RAG |
+|---------------------|------------------------|
+| • Regression & Classification | • Retrieval-Augmented Generation |
+| • Feature Engineering | • Dense & Sparse Retrieval |
+| • Cross Validation | • BM25 |
+| • Hyperparameter Tuning | • Maximum Marginal Relevance |
+| • Model Evaluation | • Reciprocal Rank Fusion |
+| • Logistic Regression | • Query Classification |
+| • LDA / QDA | • Query Routing |
+| • Naive Bayes | • Query Rewriting |
+| • KNN | • Context Fusion |
+| • SVM | • Vector Databases |
+| • Decision Trees | • PDF Processing |
+| • Random Forest | • Web Search Integration |
+| • Gradient Boosting | • Prompt Engineering |
+| • Neural Networks | • Modular AI Architecture |
+| • Deep Learning | |
+| • Clustering | |
+| • Accuracy, Precision, Recall, F1, ROC-AUC, RMSE, MAE, R² | |
 
 ---
 
