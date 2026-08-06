@@ -16,7 +16,7 @@
 <p>
   <img src="https://img.shields.io/badge/👩‍💻%20About%20Me-009688?style=for-the-badge"/>
 </p>
-## 👩‍💻 About Me
+
 
 I am an AI Data Engineer with experience across pharmaceutical research, healthcare analytics, enterprise Salesforce development, data engineering, machine learning, and generative AI.
 
@@ -26,7 +26,9 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 
 
 ---
-## 🧠 Technical Skills
+<p>
+<img src="https://img.shields.io/badge/🧠%20Technical%20Skills-7C3AED?style=for-the-badge"/>
+</p>
 
 | Area | Skills |
 |---|---|
@@ -56,7 +58,9 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 
 ---
 
-## 🚀 Featured Projects
+<p>
+<img src="https://img.shields.io/badge/🚀%20Featured%20Projects-F97316?style=for-the-badge"/>
+</p>
 
 | Project | Summary | Tech Stack | Repository | Live Demo |
 |---|---|---|---|---|
@@ -65,7 +69,9 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 | 🏥 **Healthcare Informatics & AI Platform** | Healthcare Lakehouse architecture for analytics and AI-ready data products | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square) | [GitHub](https://github.com/marufasumi/enterprise-healthcare-informatics-ai-platform) | — |
 
 ---
-## 💼 Professional Experience
+<p>
+<img src="https://img.shields.io/badge/💼%20Professional%20Experience-16A34A?style=for-the-badge"/>
+</p>
 
 ### Associate Technical Consultant — Data & Salesforce Solutions
 **Perficient** • Detroit, Michigan • **Aug 2023 – Dec 2024**
@@ -118,14 +124,18 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 
   ---
 
-## 📚 Publications
+<p>
+<img src="https://img.shields.io/badge/📚%20Publications-DC2626?style=for-the-badge"/>
+</p>
 
 - *A Hybrid CNN–Transformer Model for Brain Tumor Classification from MRI Scans* — IEEE, 2025 (99.56% accuracy)
 - *Ensemble Approaches for Class-Imbalance in Coronary Heart Disease Prediction* — IEEE Xplore, 2023
 
 ---
 
-## 🎓 Education
+<p>
+<img src="https://img.shields.io/badge/🎓%20Education-2563EB?style=for-the-badge"/>
+</p>
 
 | Degree | Institution | Status |
 |---|---|---|
@@ -136,7 +146,9 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 ---
 
 
-## 📜 Certifications
+<p>
+<img src="https://img.shields.io/badge/📜%20Certifications-F59E0B?style=for-the-badge"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Salesforce%20Administrator-Certified-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
