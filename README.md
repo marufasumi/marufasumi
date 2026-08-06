@@ -101,16 +101,6 @@ Analyzed pharmaceutical raw materials and finished products (HPLC, UV–Vis, GC,
 
 ---
 
-<div align="center">
-
-Open to collaborating on healthcare data engineering, RAG/agentic AI, Databricks, Salesforce, and pharmacovigilance projects.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marufasumi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marufasumi.vercel.app)
-
-</div>
-
----
 
 ## 📜 Certifications
 
@@ -123,3 +113,14 @@ Open to collaborating on healthcare data engineering, RAG/agentic AI, Databricks
 </p>
 
 ---
+
+<div align="center">
+
+Open to collaborating on healthcare data engineering, RAG/agentic AI, Databricks, Salesforce, and pharmacovigilance projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marufasumi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marufasumi.vercel.app)
+
+</div>
+
+
