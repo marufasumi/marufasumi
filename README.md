@@ -13,7 +13,9 @@
 </div>
 
 ---
-[## 👩‍💻 About Me](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)]
+<p>
+  <img src="https://img.shields.io/badge/👩‍💻%20About%20Me-2563EB?style=for-the-badge&logoColor=white"/>
+</p>
 ## 👩‍💻 About Me
 
 I am an AI Data Engineer with experience across pharmaceutical research, healthcare analytics, enterprise Salesforce development, data engineering, machine learning, and generative AI.
