@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marufa%20Sumi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marufasumi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-marufasumi.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://marufasumi.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-marufasumi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marufasumi)
-[![Email](https://img.shields.io/badge/Email-marufasumi896%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marufasumi081@gmail.com)
+[![Email](https://img.shields.io/badge/Email-marufasumi081%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marufasumi081@gmail.com)
 
 <br>
 
