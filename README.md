@@ -62,31 +62,28 @@ Previously, I worked as an Associate Technical Consultant at Perficient, develop
 | 💊 **FAERS Drug Safety Analytics** | Predicts serious adverse drug events using more than 406,000 FDA FAERS reports | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | [GitHub](https://github.com/marufasumi/FAERS-Safety-Analytics) | Coming Soon |
 | 🏥 **Healthcare Informatics & AI Platform** | Healthcare Lakehouse architecture for analytics and AI-ready data products | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square) | [GitHub](https://github.com/marufasumi/enterprise-healthcare-informatics-ai-platform) | — |
 
-
 ---
+## 💼 Professional Experience
 
-## 💼 Experience
+### Associate Technical Consultant — Data & Salesforce Solutions  
+**Perficient | Detroit, Michigan | August 2023 – December 2024**
 
-### Associate Technical Consultant — Perficient
-**Detroit, Michigan | August 2023 – December 2024**
+- Analyzed business and operational data to support reporting, process improvement, and decision-making for a large automotive client
+- Built Salesforce reports, dashboards, automation workflows, and data-processing solutions using Apex, LWC, Flows, Triggers, Batch Apex, and Scheduled Apex
+- Developed and supported system integrations, data validation logic, and scalable enterprise solutions across Salesforce platforms
+- Collaborated with cross-functional Agile teams using GitLab, Copado, CI/CD pipelines, testing, and production support practices
 
-- Developed enterprise Salesforce solutions using Apex, LWC, Flows, Triggers, Batch Apex, and Scheduled Apex
-- Built automation workflows, integrations, reports, dashboards, and data-processing solutions
-- Supported a large automotive client using Agile, GitLab, Copado, and CI/CD practices
+### PhD Research Scholar — Pharmaceutical Science  
+**Shanghai Jiao Tong University | Shanghai, China | September 2016 – August 2018**
 
-### PhD Research Scholar — Shanghai Jiao Tong University
-**Shanghai, China | September 2016 – August 2018**
+- Conducted data-driven pharmaceutical research in drug stability, reaction kinetics, and analytical chemistry
+- Performed spectrophotometric quantification, dissolution studies, impurity profiling, and interpretation of experimental results
 
-- Conducted pharmaceutical research in drug stability, reaction kinetics, and analytical chemistry
-- Performed spectrophotometric quantification, dissolution studies, and impurity profiling
+### Pharmaceutical Quality Control  
+**Renata PLC & Incepta Pharmaceuticals | Bangladesh | December 2013 – August 2016**
 
-### Pharmaceutical Quality Control — Renata PLC & Incepta Pharmaceuticals
-**Bangladesh | December 2013 – August 2016**
-
-- Performed HPLC, UV–Vis, GC, FT-IR, and dissolution analysis
-- Supported GMP documentation, assay validation, batch release, and analytical investigations
-
----
+- Generated, reviewed, and interpreted analytical data using HPLC, UV–Vis, GC, FT-IR, and dissolution testing
+- Supported GMP documentation, assay validation, batch release, deviation analysis, and data-driven quality investigations
 
 ## 📚 Publications
 
