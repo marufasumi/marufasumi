@@ -194,8 +194,17 @@ I am especially interested in building systems that connect **data engineering, 
 </p>
 
 ---
-
 # 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Repository | Live Demo |
+|---------|-------------|------------|------------|-----------|
+| 💊 **PharmacologyGPT** | Hybrid RAG assistant for pharmacology using local documents and web search | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit) | [GitHub](https://github.com/marufasumi/PharmacologyGPT-RAG) | [Demo](https://pharmacologygpt.streamlit.app) |
+| 💊 **FAERS Drug Safety Analytics** | Predict serious adverse drug events using FDA FAERS data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit) | [GitHub](https://github.com/marufasumi/FAERS-Safety-Analytics) | Demo |
+| 🏥 **Healthcare Informatics Platform** | AI-ready healthcare Lakehouse architecture | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square) | [GitHub](https://github.com/marufasumi/enterprise-healthcare-informatics-ai-platform) | — |
+| 🔗 **HL7 FHIR Clinical Platform** | Clinical interoperability and patient analytics | ![FHIR](https://img.shields.io/badge/HL7%20FHIR-E34F26?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Coming Soon | — |
+| 🧠 **Brain Tumor Classification** | Hybrid CNN–Transformer model for MRI classification | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | Repository | — |
+| ❤️ **CHD Prediction** | IEEE-published coronary heart disease prediction | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn) | Repository | — |
+| ☁️ **Salesforce Patient 360** | Unified healthcare data using Salesforce Data Cloud | ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white) ![Data Cloud](https://img.shields.io/badge/Data%20Cloud-00A1E0?style=flat-square) | Repository | — |
 
 ## 1. 💊 PharmacologyGPT — Hybrid RAG Application
 
