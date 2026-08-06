@@ -93,11 +93,11 @@ Analyzed pharmaceutical raw materials and finished products (HPLC, UV–Vis, GC,
 
 ## 🎓 Education
 
-- **M.S. Analytics** — Georgia Institute of Technology *(2024–2027)*
-- **M.S. Information, Health Informatics** — University of Michigan School of Information *(75% Merit Scholar)*
-- **B. Pharmacy** — State University of Bangladesh *(2009–2013)*
-
-**Certifications:** Salesforce Certified Administrator · Salesforce Certified AI Associate · Apex Specialist Superbadge
+| Degree | Institution | Status |
+|---|---|---|
+| **M.S. Information — Big Data Analytics** | University of Michigan | Expected 2028 |
+| **M.S. Analytics** | Georgia Institute of Technology | Expected 2027 |
+| **Master of Pharmacy** | State University of Bangladesh | Completed |
 
 ---
 
