@@ -81,7 +81,7 @@ Analyzed pharmaceutical raw materials and finished products (HPLC, UV–Vis, GC,
 
 ## 📚 Publications
 
-- *A Hybrid CNN–Transformer Model for Brain Tumor Classification from MRI Scans* — Under review, 2025 (99.56% accuracy)
+- *A Hybrid CNN–Transformer Model for Brain Tumor Classification from MRI Scans* — IEEE, 2025 (99.56% accuracy)
 - *Ensemble Approaches for Class-Imbalance in Coronary Heart Disease Prediction* — IEEE Xplore, 2023
 
 ---
